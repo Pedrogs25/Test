@@ -7,7 +7,7 @@ namespace TsCap8
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Teste pro");
+            Console.WriteLine("Como vai meu parceiro?");
 
         }
     }
