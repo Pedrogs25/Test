@@ -8,6 +8,7 @@ namespace TsCap8
         {
 
             Console.WriteLine("Como vai meu parceiro?");
+            Console.WriteLine("oi");
 
         }
     }
